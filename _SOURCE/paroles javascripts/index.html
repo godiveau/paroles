@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+<head>
+   <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="css/favicon.ico">
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+
+<title>Paroles du pub</title>
+</head>
+
+<body> 
+<h1 class="text-center">Paroles de pub</h1>
+<script src="http://code.jquery.com/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script> 
+
+<div class="container">
+    <div class="jumbotron">
+        <div class="form-group">
+
+        <input class="form-control transparent-input" type="text" value="" id="paroles"/>
+        <script type="text/javascript" charset="utf-8">
+        var objTest = {"rand": [
+            {"txt": "texte 1",
+            },
+            {"txt": "texte 2",
+            },
+            {"txt": "texte 3",
+            },
+            {"txt": "texte 4",
+            },
+            {"txt": "texte 5",
+            },
+            {"txt": "texte 6",
+            },
+            {"txt": "texte 7",
+            },
+            {"txt": "texte 8",
+            },
+            ],
+        };
+        function populate () {
+            var num=objTest.rand.length,// calcule nombre d'élément
+            obj=document.getElementById("paroles"),
+            al=Math.floor(Math.random()*num);
+            obj.value=objTest.rand[al].txt;
+            var pp=objTest.rand[al].loc;
+        }
+        </script>
+        </div>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="XXXXXXXXXX">
+    <input type="button" class="btn btn-large btn-block btn-primary" value="Nouvelle phrase" onClick="populate();">
+    </div>
+</div>
+
+        
+        
+
+</body>
+</html>

@@ -1,0 +1,87 @@
+{
+  "p": {
+    "s": {
+      "0": "J’ai mis une adresse de réponse sur le site c’est pour ça qu’on appelle ça du “responsive” design.",
+      "1": "Vous corrigez les bugs ? Pourquoi n’avez vous pas directement codé le site sans bug ?",
+      "2": "Il y a une erreur dans la liste de pays que vous m’avez envoyée. — Laquelle ? — ‘Madagascar’. C’est un dessin animé."
+    },
+    "m": {
+      "0": "Nous utilisons uniquement le navigateur Google, version IE11.",
+      "1": "Un cahier des charges ? Pas la peine, faites directement un site qui permet tout, comme ça je ne vous dérange plus.",
+      "2": "Votre application coûte trop cher, ne pouvez-vous pas la développer sur votre temps libre ? Durant le week-end ?"
+    },
+    "l": {
+      "0": "Finalement nous n’aimons pas trop Flash, nous trouvons cela trop rapide.",
+      "1": "En fait le client ne veut plus mettre le nouveau site en ligne, il a peur que son concurrent le copie…",
+      "2": "C’est bon les gars on a gagné la compet. Ah cool ? Bon en revanche ça se fera pas, ils ont pas de tunes"
+    }
+  },
+  "a": {
+    "s": {
+      "0": "feugiat",
+      "1": "interdum",
+      "2": "aliquam"
+    },
+    "m": {
+      "0": "Sed vitae magna a magna lacinia ornare",
+      "1": "Ut blandit urna at odio porttitor porttitor",
+      "2": "Mauris sollicitudin auctor nunc eu elite"
+    },
+    "l": {
+      "0": "Etiam eget lorem et turpis semper tempus a lobortis eros, vivamus ultricies arcu a diam laoreet aliquam",
+      "1": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos in condimentum",
+      "2": "Metus eu adipiscing pretium, felis leo ornare nibh, ultricies posuere massa elit et lorem"
+    }
+  },
+  "li": {
+    "s": {
+      "0": "Duis consectetur orci sed ante rutrum at tincidunt",
+      "1": "Ut hendrerit eleifend enim, sit amet sollicitudin.",
+      "2": "Aliquam viverra consequat lacus id venenatis."
+    },
+    "m": {
+      "0": "Suspendisse tristique est in lectus consequat suscipit. Curabitur mollis lacus imperdiet magna mattis commodo. Quisque sit amet purus eu nibh vulputate posuere. ",
+      "1": "Pellentesque posuere nulla ut tortor auctor rhoncus in eget nibh. Duis ultrices risus at libero aliquam auctor rhoncus mi consequat. Vestibulum eget ligula id massa. ",
+      "2": "Donec feugiat congue nulla, ac accumsan enim varius in. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+    },
+    "l": {
+      "0": "Tu vois c'est toi le DA mais elle aime bien que le produit et le Keyvisual soient en diagonal",
+      "1": "La cliente avait pensé à la mise en page suivante…",
+      "2": "Tu vois c'est toi le DA mais elle aime bien que le produit et le Keyvisual soient en diagonal"
+    }
+  },
+  "la": {
+    "s": {
+      "0": "Curabitur",
+      "1": "Quisque",
+      "2": "Pellentesque"
+    },
+    "m": {
+      "0": "Sed scelerisque neque",
+      "1": "Nullam in quam ac",
+      "2": "Praesent rhoncus"
+    },
+    "l": {
+      "0": "Quisque sit amet purus eu nibh vulputate posuere, donec pharetra velit vel massa",
+      "1": "Maecenas vestibulum tincidunt tellus vitae facilisis, praesent rhoncus ullamcorper",
+      "2": "Duis ultrices risus at libero aliquam auctor rhoncus mi consequat, eget ligula id massa congue lacinia"
+    }
+  },
+  "h": {
+    "s": {
+      "0": "Quand je tape mon nom dans Google, il y a d’autres résultats que moi." "Vous ne connaîtriez pas un stagiaire ? Parce que si je fais appel à vous, ça me coûtera trop cher.",
+      "1": "Je n’ai aucune idée de ce que je voudrais. Faites quelque chose qui va me plaire !",
+      "2": "La croix en haut à droite servira à fermer la fenêtre. — Non, pas de croix. La croix à une connotation trop négative.",
+      "0": "J’ai mis une adresse de réponse sur le site c’est pour ça qu’on appelle ça du “responsive” design."
+    },
+    "m": {
+
+    },
+    "l": {
+      "0": "Vous corrigez les bugs ? Pourquoi n’avez vous pas directement codé le site sans bug ?",
+      "1": "Je veux que mon site soit ouvert de 8h à 12h et de 14h à 18h.",
+      "1": "Est-ce que ça me sera possible de mettre à jour le contenu de mon site depuis mon lieu de vacances ? Je n’aurai pas Internet.",
+      "2": "Je n’y connais rien, mais je veux que quand le gens allument leur ordinateur, ils tombent sur mon site."
+    }
+  }
+}
