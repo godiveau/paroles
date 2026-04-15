@@ -1,0 +1,22 @@
+window.PAROLES_TEXTS = [
+  "Avec Carrefour, je positive.",
+  "Venez comme vous êtes.",
+  "What else ?",
+  "Parce que je le vaux bien.",
+  "Just do it.",
+  "À fond la forme.",
+  "Y’a pas écrit La Poste.",
+  "Et la marmotte met le chocolat dans le papier alu.",
+  "Carglass répare, Carglass remplace.",
+  "Du pain, du vin, du Boursin.",
+  "Si juvabien, c’est Juvamine.",
+  "Ovomaltine, c’est de la dynamique.",
+  "Un Mars et ça repart.",
+  "Quand c’est trop, c’est Tropico.",
+  "La vie, la vraie.",
+  "Le contrat de confiance.",
+  "On se lève tous pour Danette.",
+  "Nespresso. What else ?",
+  "Heureux comme un poisson dans l’eau.",
+  "Le plaisir à l’état pur."
+];
