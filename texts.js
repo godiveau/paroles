@@ -1,7 +1,7 @@
 window.PAROLES_TEXTS = [
   "Je ne suis pas la mais je peux vous lire.",
   "C'est à proscrire.",
-  "What else ?",
+  "Go pour l'actu !",
   "Parce que je le vaux bien.",
   "Just do it.",
   "À fond la forme.",
