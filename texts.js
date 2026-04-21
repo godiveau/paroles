@@ -1,5 +1,5 @@
 window.PAROLES_TEXTS = [
-  "Avec Carrefour, je positive.",
+  "Je ne suis pas la mais je peux vous lire.",
   "Venez comme vous êtes.",
   "What else ?",
   "Parce que je le vaux bien.",
